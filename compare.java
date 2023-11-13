@@ -59,6 +59,9 @@ class compare{
 		
 		//8
 		System.out.println("Substring is : " + a.substring(1,3));
+		System.out.println("Is String starts with hell : " + a.startsWith("hell"));
+		System.out.println("Is String ends with hell : " + a.endsWith("hell"));
+		
 		
 		//9
 		
